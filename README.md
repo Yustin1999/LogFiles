@@ -1,0 +1,2 @@
+# LogFiles
+Storage for logs
